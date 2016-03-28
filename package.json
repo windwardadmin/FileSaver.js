@@ -1,0 +1,19 @@
+{
+  "name": "filesaver.js",
+  "version": "1.1.20160328",
+  "description": "A saveAs() FileSaver implementation.",
+  "main": "FileSaver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/windwardadmin/FileSaver.js.git"
+  },
+  "author": "Eli Grey (http://eligrey.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/windwardadmin/FileSaver.js/issues"
+  },
+  "homepage": "https://github.com/windwardadmin/FileSaver.js#readme"
+}
