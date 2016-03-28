@@ -1,3 +1,5 @@
+*Note: This Windward fork was created in order to add a package.json file so we could install this as an npm dependency in one of our projects.  We provide no guarantees that it will stay up to date with the original.*
+
 FileSaver.js
 ============
 
